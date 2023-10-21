@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Hello
+=======
+H
+e
+l
+l
+o
+>>>>>>> cc98e2d (Added new line)

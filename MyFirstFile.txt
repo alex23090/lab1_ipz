@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello
 =======
 =======
@@ -18,6 +19,8 @@ o
 =======
 o
 >>>>>>> 524744e (Added new line)
+=======
+>>>>>>> parent of 524744e (Added new line)
 =======
 >>>>>>> parent of 524744e (Added new line)
 =======

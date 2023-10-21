@@ -1,9 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello
 =======
+=======
+>>>>>>> 524744e (Added new line)
 H
 e
 l
 l
+<<<<<<< HEAD
 o
 >>>>>>> cc98e2d (Added new line)
+=======
+o
+>>>>>>> 524744e (Added new line)
